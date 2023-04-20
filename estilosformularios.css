@@ -29,13 +29,13 @@ body{
   border-top-right-radius: 7px;
   border-bottom: 10px solid crimson;
 }
- .tabla-clientes{
+ .tabla_clientes{
   text-align: left;
   border:1px solid darkgraw;
   width:100%;
 }
 
-.tabla-botones{
+.tabla_botones{
  text-align: center;
  border:1px solid darkgray;
 }
