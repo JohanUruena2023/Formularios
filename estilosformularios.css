@@ -43,3 +43,12 @@ body{
 .input -50{
  width :50%;
 }
+
+.btn_registrarse{
+  background:#0000F;
+  color:#C0C0C0 ;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+}
