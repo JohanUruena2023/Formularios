@@ -34,3 +34,8 @@ body{
   border:1px solid darkgraw;
   width:100%;
 }
+
+.tabla-botones{
+ text-align: center;
+ border:1px solid darkgray;
+}
