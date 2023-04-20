@@ -46,9 +46,13 @@ body{
 
 .btn_registrarse{
   background:#0000F;
-  color:#C0C0C0 ;
+  color:#fff;
  margin:auto;
   padding: 10px 40px;
   cursor:pointer;
   border-radius:7px;
+}
+
+.btn_registrarse:active{
+ transform:scale(1.05);
 }
