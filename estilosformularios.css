@@ -29,4 +29,8 @@ body{
   border-top-right-radius: 7px;
   border-bottom: 10px solid crimson;
 }
- 
+ .tabla-clientes{
+  text-align: left;
+  border:1px solid darkgraw;
+  width:100%;
+}
