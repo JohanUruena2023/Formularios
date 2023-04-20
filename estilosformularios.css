@@ -3,3 +3,14 @@ body{
   font-family: sans-serif;
     background:#00FFFF; 
 }
+
+.form_clientes{
+   width:60;
+ max-width:500px;
+ margin: auto;
+ background:#0000FF;
+ border-radius: 7px
+ 
+ 
+}
+ 
