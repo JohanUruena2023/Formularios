@@ -9,8 +9,11 @@ body{
   max-width:500px;
   margin: auto;
   background: #FFFF00;
-  border-radius: 7px;
- 
- 
+  border-radius: 7px; 
 }
  
+
+
+.contenedor_input{
+ text-align:center;
+}
