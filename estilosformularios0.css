@@ -4,7 +4,7 @@ body{
     background:#00FFFF; 
 }
 
-.form_clientes{
+.form_inicio_sesion{
   width:60%;
   max-width:500px;
   margin: auto;
@@ -14,11 +14,11 @@ body{
  
 
 
-.contenedor_input{
+.contenedor_Sesion{
  text-align:center;
 }
 
-.titulo_form_clientes{
+.titulo_form_Sesion{
   background:#0000FF;
   color:#C0C0C0 ;
   padding: 8px;
@@ -29,7 +29,7 @@ body{
   border-top-right-radius: 7px;
   border-bottom: 10px solid crimson;
 }
- .tabla_clientes{
+ .tabla_Sesion{
   text-align: left;
   border:1px solid darkgraw;
   width:100%;
@@ -66,9 +66,9 @@ body{
  margin-right:auto;
  margin-left:auto;
 }
-.btn_registrarse:active{
+.btn_Registrarse:active{
  transform:scale(1.05);
 }
-.btn_Inicio:active{
+.btn_Ingresar:active{
  transform:scale(1.05);
 }
