@@ -54,5 +54,11 @@ body{
 }
 
 .btn_Consultar:active{
+  background:#808080;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
  transform:scale(1.05);
 }
