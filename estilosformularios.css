@@ -51,6 +51,7 @@ body{
   padding: 10px 40px;
   cursor:pointer;
   border-radius:7px;
+ display: inline-block;
  display:block;
  margin-right:auto;
  margin-left:auto;
@@ -62,11 +63,22 @@ body{
   padding: 10px 40px;
   cursor:pointer;
   border-radius:7px;
+  display: inline-block;
  display:block;
  margin-right:auto;
  margin-left:auto;
 }
 
 .btn_Seleccionar:active{
+  background:#188837;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+  display: inline-block;
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
  transform:scale(1.05);
 }
