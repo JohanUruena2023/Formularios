@@ -1,1 +1,32 @@
+menu{
+ Margin:10px 10px 0 0;
+  position:unset;
+  neight:auto;
+  width:unset;
+  font-family: sans-serif;
+    background:#00FFFF;
+  border:none;
+}
+
+
+.contenedor_padre{
+ text-align:center;
+}
+
+.titulo_cabecera{
+  background:#0000FF;
+  color:#C0C0C0 ;
+  padding: 8px;
+  text-align:center;
+  font-weight:100px;
+  font-zise: 30px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+
+}
+
+
+
+
+
 
