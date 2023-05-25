@@ -21,14 +21,14 @@
 .titulo_cabecera{
  position: absolute;
  top: 40px;
- left: 220px;
+ left: 240px;
   
 }
 
 .slogan_cabecera {
   position: absolute;
   top: 90px;
-  left: 270px;
+  left: 220px;
 }
 
 .menu{
@@ -40,7 +40,7 @@
 }
 
 .link{
-  background: #00FFFF;
+  background:#00FF00;
   color: white;
   padding: 5px;
   border-radius: 5px;
