@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-between;
   position: relative;
-  height: 220px; 
+  height: 100px; 
 }
 
 .cabecera img{
@@ -28,4 +28,12 @@
   top: 60px;
   left: 235px;
 }
+
+.menu{
+  margin:10px 10px 0 0;
+  position:unset;
+  backgraound: none;
+  heigth: unset;
+  border: none;
+  {
 
