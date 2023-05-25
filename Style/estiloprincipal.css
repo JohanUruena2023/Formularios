@@ -15,14 +15,14 @@
 }
 
 .cabecera img {
-  width: 100px;
+  width: 150px;
 }
 
 .titulo_cabecera{
  position: absolute;
  top: 40px;
  right:100px;
- left: 100px;
+ left: 150px;
   
 }
 
@@ -44,7 +44,7 @@
   background: #0D035B;
   color: white;
   padding: 5px;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 
 
