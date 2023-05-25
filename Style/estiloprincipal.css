@@ -1,8 +1,8 @@
-.contenedor_padre{
-  border:solid 1px black;
-  width:100%;
-  max-width:1000px;
-  margin:auto;
+.contenedor_padre {
+  border: solid 1px black;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
   box-sizing: border-box;
   overflow: hidden;
 }
@@ -10,18 +10,16 @@
 .cabecera{
   display: flex;
   justify-content: space-between;
-  position: relative;
-  height:220px;
- 
+  postion: relative;
+  height: 220px; 
 }
 
 .cabecera img{
   width: 100px;
-  
 }
 
 .titulo_cabecera{
-  position:absolute;
- top:40px
+ position: absolute;
+ top: 40px;
  left: 150px;
 }
