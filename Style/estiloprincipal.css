@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-between;
   position: relative;
-  height: 240px; 
+  height: 170px; 
 }
 
 .cabecera img {
@@ -20,8 +20,8 @@
 
 .titulo_cabecera{
  position: absolute;
- top: 100px;
- left: 280px;
+ top: 40px;
+ left: 150px;
   
 }
 
