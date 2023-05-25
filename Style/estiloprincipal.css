@@ -10,7 +10,7 @@
 .cabecera{
   display: flex;
   justify-content: space-between;
-  postion: relative;
+  position: relative;
   height: 170px; 
 }
 
@@ -20,7 +20,7 @@
 
 .titulo_cabecera{
  position: absolute;
- top: 40px;
+ top: 80px;
  left: 150px;
 }
 
