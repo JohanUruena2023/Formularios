@@ -10,8 +10,8 @@
 .cabecera{
   display: flex;
   justify-content: space-between;
-  position: relative;
-  height: 100px; 
+  postion: relative;
+  height: 170px; 
 }
 
 .cabecera img{
@@ -23,17 +23,31 @@
  top: 40px;
  left: 150px;
 }
+
 .slogan_cabecera{
   position: absolute;
-  top: 60px;
+  top: 90px;
   left: 235px;
 }
 
 .menu{
-  margin:10px 10px 0 0;
-  position:unset;
-  backgraound: none;
-  heigth: unset;
-  border: none;
-  {
+ margin: 10px 10px 0 0;
+ position: unset;
+ backgroud: none;
+ height:unset;
+ border: none;
+}
+
+.link{
+  background: #0D035B;
+  color: white;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+
+
+
+
+
 
