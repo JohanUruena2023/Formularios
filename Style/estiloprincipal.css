@@ -1,5 +1,14 @@
+.contenedor{
+  borde:solid 1px black;
+  width:100%;
+  max-width:1000px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
 
-
-
-
-
+.cabecera{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  height:220px;
+}
