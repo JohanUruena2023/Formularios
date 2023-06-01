@@ -57,13 +57,13 @@
 }
 
 
-.lienzo_galeria{
+.lienzo_galeria {
   width: 600px;
   height: 350px;
   overflow: hidden;
 }
 
-.lienzo_contenedor{
+.lienzo_contenedor {
   display: flex;
   width: 7000px;
   height: 50px;
