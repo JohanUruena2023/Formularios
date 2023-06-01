@@ -32,7 +32,7 @@
   left: 120px;
 }
 
-.menu{
+.menu {
  margin: 10px 10px 0 0;
  position: unset;
  backgroud: none;
@@ -40,7 +40,7 @@
  border: none;
 }
 
-.link{
+.link {
   background:#00FF00;
   color: Black;
   padding: 5px;
@@ -57,7 +57,7 @@
 }
 
 
-.lienzo_galeria{
+.lienzo_galeria {
   width: 600px;
   height: 350px;
   overflow: hidden;
