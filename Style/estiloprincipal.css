@@ -57,13 +57,13 @@
 }
 
 
-.lienzo_contenedor {
+.lienzo_galeria{
   width: 600px;
   height: 350px;
   overflow: hidden;
 }
 
-.galeria_contenedor{
+.lienzo_contenedor{
   display: flex;
   width: 7000px;
   height: 50px;
@@ -71,15 +71,15 @@
   will-change: transform; 
 }
 
-.elemento1:checked ~ .galeria_contenedor{
+.elemento1:checked ~ .lienzo_contenedor{
   transform: translatex(0px);
 }
 
-.elemento2:checked ~ .galeria_contenedor{
+.elemento2:checked ~ .lienzo_contenedor{
   transform: translatex(-700px);
 }
 
-.elemento3:checked ~ .galeria_contenedor{
+.elemento3:checked ~ .lienzo_contenedor{
   transform: translatex(-1400px);
 }
 .controles{
