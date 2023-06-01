@@ -64,27 +64,24 @@
 }
 
 .lienzo_contenedor{
-  display:flex;
+  display: flex;
   width: 7000px;
   height: 50px;
-  trqansition: transform 1s ease-in;
-  will-change:transform;
+  transition: transform 1s ease-in;
+  will-change: transform; 
 }
 
 .elemento1:checked ~ .lienzo_contenedor{
-transform:translatex(0px);
+  transform: translatex(0px);
 }
 
 .elemento2:checked ~ .lienzo_contenedor{
-transform:translatex(-600px);
+  transform: translatex(-600px);
 }
 
 .elemento3:checked ~ .lienzo_contenedor{
-  transform:translatex(-1200px);
+  transform: translatex(-1200px);
 }
-
-
-
 
 
 
