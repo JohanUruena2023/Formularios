@@ -1,5 +1,5 @@
 .contenedor {
-  border: solid 1px black;
+  border: solid 1pxblack;
   width: 100%;
   max-width: 1000px;
   margin: auto;
@@ -47,14 +47,15 @@
   border-radius: 5px;
 }
 
-.galeria{
+.galeria { 
   width: 100%;
   height: 400px;
-  background:#C0C0C0
+  background: #585859;
   display: flex;
   justify-content: center;
-  align-items:center;
+  align-items: center;
 }
+
 
 .lienzo_galeria{
   width: 600px;
