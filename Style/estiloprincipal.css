@@ -95,7 +95,7 @@
  width: 20px;
  height:20px;
  border-radius: 100px;
- background:-webkit-gradient(left top, right top, color-stop(0%, rgba(129,177,142,1)), color-stop(0%, rgba(12,90,32,1)), color-stop(100%, rgba(12,90,32,0.19)));;
+ background:rgba(76,76,76,1);;
  cursor: pointer;
  display: block;
 }
@@ -112,7 +112,7 @@
 .tienda article {
   display: flex;
   justify-content: center;
-  aling-content: space-between;
+  align-content: space-between;
   flex-flow: wrap;
   border: solid;
   border-radius: 15px;
