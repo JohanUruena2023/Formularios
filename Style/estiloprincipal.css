@@ -49,7 +49,7 @@
 .galeria { 
   width: 100%;
   height: 400px;
-  background: -moz-linear-gradient(left, rgba(215,255,15,0.98) 0%, rgba(134,218,16,0.98) 100%) ;
+  background:  rgba(215,255,15,0.98);
   display: flex;
   justify-content: center;
   align-items: center;
