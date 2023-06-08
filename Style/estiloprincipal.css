@@ -1,5 +1,5 @@
 .contenedor {
-  border: solid 1pxblack;
+  border: solid 1px black;
   width: 100%;
   max-width: 1000px;
   margin: auto;
@@ -36,7 +36,7 @@
  position: unset;
  backgroud: none;
  height:unset;
- border: none;
+ border:none ;
 }
 
 .link {
@@ -109,6 +109,15 @@
   height: auto;
 }
 
+.tienda article {
+  display: flex;
+  justify-content: center;
+  aling-content: space-between;
+  flex-flow: wrap;
+  border: solid;
+  border-radius: 15px;
+  overflow: hidden;
+}
 
 
 
