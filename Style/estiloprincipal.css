@@ -95,7 +95,7 @@
  width: 20px;
  height:20px;
  border-radius: 100px;
- background: #FFFF00;
+ background:-moz-linear-gradient(left, rgba(129,177,142,1) 0%, rgba(12,90,32,1) 0%, rgba(12,90,32,0.19) 100%);;
  cursor: pointer;
  display: block;
 }
