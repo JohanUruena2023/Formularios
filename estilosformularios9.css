@@ -1,26 +1,26 @@
 body{
- Margin:0;
+  margin: 0;
   font-family: sans-serif;
-    background:#00FFFF; 
+  background:#00FFFF;  
 }
 
-.form_Sesion{
-  width:50%;
+.form_inicio_sesion{
+  width:60%;
   max-width:500px;
-  margin: auto;
-  background: #FFFF00;
-  border-radius: 7px; 
-}
- 
-
-
-.contenedor_Sesion{
- text-align:center;
+  margin:auto;
+  background:#FFFF00;
+  border-radius:7px;
 }
 
-.titulo_form_Sesion{
+
+.contenedor_input{
+  text-align:center;
+}
+
+
+.titulo_form_clientes{
   background:#0000FF;
-  color:#C0C0C0 ;
+  color:#C0C0C0;
   padding: 8px;
   text-align:center;
   font-weight:100px;
@@ -29,7 +29,8 @@ body{
   border-top-right-radius: 7px;
   border-bottom: 10px solid crimson;
 }
- .tabla_Sesion{
+
+.tabla_Sesion{
   text-align: left;
   border:1px solid darkgray;
   width:100%;
@@ -74,3 +75,12 @@ body{
 .btn_Ingresar:active{
  transform:scale(1.05);
 }
+
+
+
+
+
+
+
+
+
