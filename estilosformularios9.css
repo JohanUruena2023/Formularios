@@ -4,7 +4,7 @@ body{
     background:#00FFFF; 
 }
 
-.form_inicio_sesion{
+.Sesion{
   width:60%;
   max-width:500px;
   margin: auto;
@@ -18,7 +18,7 @@ body{
  text-align:center;
 }
 
-.titulo_form_Sesion{
+.Sesion{
   background:#0000FF;
   color:#C0C0C0 ;
   padding: 8px;
