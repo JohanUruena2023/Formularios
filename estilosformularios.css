@@ -59,3 +59,50 @@ body{
 .btn_registrarse:active{
  transform:scale(1.05);
 }
+
+.btn_Actualizar{
+  background:#188837;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
+}
+.btn_Actualizar:active{
+ transform:scale(1.05);
+}
+
+.btn_Consultar{
+  background:#188837;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
+}
+.btn_Consultar:active{
+ transform:scale(1.05);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
