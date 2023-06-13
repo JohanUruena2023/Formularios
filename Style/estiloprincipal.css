@@ -132,7 +132,7 @@
   justify-content: center;
   position: relative;
   height: 105px;
-  background:linear-gradient(90deg,#ff0000 0%, #00ff00 80%);;
+  background:-webkit-linear-gradient(left, rgba(215,255,15,0.98) 0%, rgba(134,218,16,0.98) 100%);;
   align-content:center;
 }
 
