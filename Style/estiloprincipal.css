@@ -122,7 +122,19 @@
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
 
+.espacio{
+  position: relative;
+  height: 20px;
+}
 
+.piedepagina{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 105px;
+  background:linear-gradient(90deg,#ff0000 0%, #00ff00 80%);;
+  align-content:center;
+}
 
 
 
