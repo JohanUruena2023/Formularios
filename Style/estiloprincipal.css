@@ -135,6 +135,7 @@
   heght: 105px;
   background: -webkit-linear-gradient(left, rgba(215,255,15,0.98) 0%, rgba(134,218,16,0.98) 100%);
   align-content: center;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.6);
 }
 
 .piedepagina footer {
