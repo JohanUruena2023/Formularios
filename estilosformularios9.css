@@ -1,14 +1,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#2D4B73;  
+  background:#00FFFF;  
 }
 
 .form_inicio_sesion{
   width:60%;
   max-width:500px;
   margin:auto;
-  background:#99B4BF;
+  background:#FFFF00;
   border-radius:7px;
 }
 
