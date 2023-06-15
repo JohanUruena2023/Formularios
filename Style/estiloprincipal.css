@@ -115,6 +115,7 @@
   align-content: space-between;
   flex-flow: wrap;
   border: solid;
+  background: -moz-linear-gradient(left, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 1%, rgba(254,254,254,1) 100%);
   border-radius: 15px;
   overflow: hidden;
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
