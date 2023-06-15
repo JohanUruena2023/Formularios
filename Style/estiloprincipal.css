@@ -122,12 +122,12 @@
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
    cursor:pointer;
    background: rgba(242,246,248,1);
+  text-shadow: 4px 4px 2px rgba(248,255,15,1);
 }
 
 .espacio{
   position: relative;
   height: 20px;
-   justify-content:center;
 }
 
 .piedepagina{
