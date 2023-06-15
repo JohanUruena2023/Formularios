@@ -56,11 +56,6 @@ body{
  margin-right:auto;
  margin-left:auto;
 }
-
-.btn_Registrar:active{
- transform:scale(1.05);
-}
-
 .btn_Ingresar{
   background:#188837;
   color:#fff;
@@ -72,6 +67,12 @@ body{
  margin-right:auto;
  margin-left:auto;
 }
+
+
+  .btn_Registrar:active{
+ transform:scale(1.05);
+}
+  
 .btn_Ingresar:active{
  transform:scale(1.05);
 }
