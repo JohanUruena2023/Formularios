@@ -1,14 +1,14 @@
 body{
   margin: 0;
   font-family: sans-serif;
-  background:#00FFFF;  
+  background:#2D4B73;  
 }
 
 .form_inicio_sesion{
   width:60%;
   max-width:500px;
   margin:auto;
-  background:#FFFF00;
+  background:#99B4BF;
   border-radius:7px;
 }
 
@@ -45,19 +45,8 @@ body{
  width :50%;
 }
 
-.btn_Registrar{
-  background:#188837;
-  color:#fff;
- margin:auto;
-  padding: 10px 40px;
-  cursor:pointer;
-  border-radius:7px;
- display:block;
- margin-right:auto;
- margin-left:auto;
-}
-.btn_Ingresar{
-  background:#188837;
+.boton_Registrar{
+  background:#00ff40;
   color:#fff;
  margin:auto;
   padding: 10px 40px;
@@ -68,15 +57,24 @@ body{
  margin-left:auto;
 }
 
-
-  .btn_Registrar:active{
- transform:scale(1.05);
-}
-  
-.btn_Ingresar:active{
+.boton_Registrar:active{
  transform:scale(1.05);
 }
 
+.boton_Ingresar{
+  background:#00ff40;
+  color:#fff;
+ margin:auto;
+  padding: 10px 40px;
+  cursor:pointer;
+  border-radius:7px;
+ display:block;
+ margin-right:auto;
+ margin-left:auto;
+}
+.boton_Ingresar:active{
+ transform:scale(1.05);
+}
 
 
 
