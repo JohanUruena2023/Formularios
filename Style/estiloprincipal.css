@@ -127,6 +127,7 @@
 .espacio{
   position: relative;
   height: 20px;
+   justify-content:center;
 }
 
 .piedepagina{
