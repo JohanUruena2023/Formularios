@@ -56,6 +56,10 @@ body{
  margin-right:auto;
  margin-left:auto;
 }
+.btn_Actualizar:active{
+transform:scale(1.05);
+}
+
 .btn_Consultar{
   background:#188837;
   color:#fff;
@@ -67,6 +71,9 @@ body{
  display:block;
  margin-right:auto;
  margin-left:auto;
+}
+ .btn_Consultar:active{
+transform:scale(1.05);
 }
 
 .btn_Seleccionar:active{
@@ -81,4 +88,7 @@ body{
  margin-right:auto;
  margin-left:auto;
  transform:scale(1.05);
+}
+ .btn_Seleccionar:active{
+transform:scale(1.05);
 }
