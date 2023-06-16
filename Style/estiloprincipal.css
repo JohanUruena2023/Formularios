@@ -158,9 +158,9 @@ article:active {
 .galeria .Lienzo_galeria{
   position: absolute;  
   top: 0;  
-  left: 0;
+  left: 25;
   opacity: 0;
-  transition: .5s;
+  transition: .10s;
 }
 
 .galeria:hover .lienzo_galeria {
