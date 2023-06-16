@@ -151,6 +151,21 @@ article:active {
   
   transform: scale(1.10);
 }
+.galeria {
+  position: relative;
+}
+
+.galeria .Lienzo_galeria{
+  position: absolute;  
+  top: 0;  
+  left: 0;
+  opacity: 0;
+  transition: .5s;
+}
+
+.galeria:hover .lienzo_galeria {
+  opacity: 1;
+}
 
 
 
