@@ -121,7 +121,7 @@
 -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
    cursor:pointer;
-   background: -webkit-linear-gradient(left, rgba(199,199,199,1) 0%, rgba(194,194,194,1) 0%, rgba(224,224,224,1) 70%, rgba(224,224,224,1) 77%, rgba(224,224,224,1) 83%, rgba(224,224,224,1) 100%);
+   background:@include filter-gradient(#c7c7c7, #e0e0e0, horizontal);
 
   text-shadow: -6px 0px 17px rgba(220,255,0,1);
  
