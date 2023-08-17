@@ -1,0 +1,139 @@
+<html>
+  <head>
+    <title> INTERNATIONAL NUTRITION </title>
+     <link href="Style/estiloprincipal.css" rel="stylesheet type="text/css"/>
+  </head>
+      <body>
+        <div class= " contenedor">
+           <div class="cabecera">
+          <header>
+             <figure>
+               <img src="imagenes/lOGO.png"/>
+             </figure>  
+             <h1 class = "titulo_cabecera"> INTERNATIONAL NUTRITION </h1>
+             <p class = "slogan_cabecera">Nourish your body, empower your life </p>
+           </header> 
+
+             <nav class="menu" >
+               <a class="link" href=" "> Nosotros </a>
+               <a class= "link" href="Registro.html"> registrarse </a>
+               <a class= "link" href="Login.html "> Login </a> 
+             </nav> 
+          </div> 
+              
+            <div class = "galeria">
+                  <div  class ="lienzo_galeria">                 
+                  <input type="radio" name="nav" class="elemento1" id="A"/>
+                  <input type="radio" name="nav" class="elemento2" id="B"/>
+                  <input type="radio" name="nav" class="elemento3" id="C"/>  
+                  <div class = "lienzo_contenedor">
+                     <figure>
+                            <img src="imagenes/Imagen venta 1.png" width="600px"/>                      
+                     </figure>
+                     <figure>
+                            <img src="imagenes/Imagen venta 2.png" width="600px"/>                      
+                     </figure>                                                   
+                      <figure>
+                            <img src="imagenes/Imagen venta 3.png" width="600px"/>                      
+                     </figure>                                                   
+                  </div>                                       
+                  </div>                                                      
+                                                                         
+                  </div>  
+                                                                              
+             </div>
+                  <div class = "controles">
+                     <label for = "A"> </label>
+                     <label for = "B"> </label>
+                     <label for = "C"> </label>
+                     </div>  
+                                     
+                    <section class="tienda">
+                          <article onclick=window.open('Registro.html')>
+                          <figure> <center><img src="imagenes/Clientes.png"> </center> </figure>
+                          <h3>CLIENTES</h3>    
+                          <p>Los clientes podran realizar consultas de productos
+                          y realizar pedidos</p>                                                
+                          </article>
+                             
+                          <article>
+                          <figure> <center><img src="imagenes/Proveedores.png"> </center> </figure>
+                          <h3>PROVEEDORES</h3>    
+                          <p> Consultar y agregar nuevos productos a la app </p>                        
+                          </article>
+                                                                           
+                          <article>
+                          <figure> <center><img src="imagenes/Productos.png"> </center> </figure>
+                          <h3>PRODUCTOS</h3>    
+                          <p> Consultar y agregar nuevos productos</p>                                                
+                          </article> 
+                                                                            
+                           <article>
+                          <figure> <center><img src="imagenes/Salud.png"> </center> </figure>
+                          <h3>SALUD</h3>    
+                          <p>Aqui podrán realizar consultas sobre su estado de salud</p>                                                
+                          </article>
+                             
+                          <article>
+                          <figure> <center><img src="imagenes/Tabla Nutricional.png"> </center> </figure>
+                          <h3>TABLA NUTRICIONAL</h3>    
+                          <p> Los clientes podran realizar consultas sobre la tabla de calorías de alimentos </p>                        
+                          </article>
+                                                                           
+                          <article>
+                          <figure> <center><img src="imagenes/Dietas.png"> </center> </figure>
+                          <h3>DIETAS NUTRICIONALES</h3>    
+                          <p> El cliente podra consultar y agregar sus dietas perzonalizadas </p>                                                
+                          </article>   
+                           
+                            <article>
+                          <figure> <center><img src="imagenes/Clientes.png"> </center> </figure>
+                          <h3>CLIENTES</h3>    
+                          <p>Los clientes podran realizar consultas de productos
+                          y realizar pedidos</p>                                                
+                          </article>
+                             
+                          <article>
+                          <figure> <center><img src="imagenes/Proveedores.png"> </center> </figure>
+                          <h3>PROVEEDORES</h3>    
+                          <p> Consultar y agregar nuevos proveerdores </p>                        
+                          </article>
+                                                                           
+                          <article>
+                          <figure> <center><img src="imagenes/Productos.png"> </center> </figure>
+                          <h3>PRODUCTOS</h3>    
+                          <p> Consultar y agregar nuevos productos al negocio</p>                                                
+                          </article>   
+                      </section>
+                                                                            
+                         <div class="espacio"></div>   
+                         <div class="piedepagina">                   
+                            <footer>
+                          <p class="nombreNegocio">INTERNATIONAL NUTRITION</P>
+                          <p class="direccion">Tv 15 B # 40-80 </p>                                
+                          <p> Telefono:xxxxxxxxxx </p>
+                          <p>Horarios de Atencion: Lunes a viernes 7:00am a 5:00pm</p>  
+                          <p>web:www.International_Nutrition.com</p>
+                          </footer>
+                            </div>
+                                             
+                                             
+        </div>
+            </body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
