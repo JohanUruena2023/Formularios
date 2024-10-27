@@ -30,6 +30,51 @@
   top: 90px;
   left: 430px;
 }
+ form {
+        width: 100%;
+    }
+
+    .slider-box {
+        width: 100%;
+    }
+}
+
+.slider-box {
+    margin-top: 25px;
+    width: 1113px;
+    height: auto;
+    margin: 0% auto;
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+.slider-box ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    width: 400%; /* 4 imágenes, cada una ocupa el 100% del ancho del contenedor */
+    animation: slide 12s infinite;
+}
+
+.slider-box li {
+    width: 25%; /* Cada elemento `li` ocupa un 25% del ancho total del `ul` */
+    list-style: none;
+}
+
+.slider-box img {
+    margin: 0%;
+    width: 100%;
+    height: auto;
+}
+
+@keyframes slide {
+    0% { margin-left: 0%; }
+    25% { margin-left: -100%; }
+    50% { margin-left: -200%; }
+    75% { margin-left: -300%; }
+    100% { margin-left: 0%; } /* Regresa al inicio para repetir */
+}
+
 
 .menu {
  margin: 10px 10px 0 0;
