@@ -47,14 +47,14 @@ nav {
 
 .container {
     text-align: center;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
     justify-items: auto;
 }
 
 section {
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 250px;
+    margin-right: 250px;
     justify-items: auto;
     text-align: justify;
 }
