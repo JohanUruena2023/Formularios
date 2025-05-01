@@ -73,7 +73,7 @@ section {
 
 /* Estilo de los enlaces */
 .nav-links  {
-    color:  #F2F0D8; /* Color de texto blanco */
+    color:  #000000; /* Color de texto Negro */
     text-decoration: none; /* Eliminar subrayado */
     font-size: 18px; /* Tamaño de fuente */
     transition: color 0.2s ease; /* Transición suave para cambios de color */
