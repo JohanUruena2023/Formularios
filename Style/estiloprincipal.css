@@ -73,7 +73,7 @@ section {
 
 /* Estilo de los enlaces */
 .nav-links  {
-    color:  #000000; /* Color de texto Negro */
+    color:  #00FF00; /* Color de texto Negro */
     text-decoration: none; /* Eliminar subrayado */
     font-size: 18px; /* Tamaño de fuente */
     transition: color 0.2s ease; /* Transición suave para cambios de color */
@@ -180,7 +180,7 @@ div.galeria img {
 div.desc {
     padding: 15px;
     text-align: justify;
-    color: #F5F4E1;
+    color: #7CFC00;
 }
 
 ul {
@@ -218,7 +218,7 @@ ul {
 
 .form-container {
     font-size: 18px;
-    color: white;
+    color: ligth blue;
     margin-bottom: 10px;
 }
 .mapa {
@@ -283,7 +283,7 @@ input::placeholder, textarea::placeholder {
 }
 
 .form-text a {
-    color: white;
+    color: black;
     font-size: 14px;
     font-weight: 600;
     text-decoration: none;
