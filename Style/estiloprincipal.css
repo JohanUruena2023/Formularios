@@ -254,7 +254,7 @@ form {
 }
 
 label {
-    color: white;
+    color: ligth gray;
     font-size: 15px;
     margin-bottom: 30px;
 }
@@ -294,7 +294,7 @@ input::placeholder, textarea::placeholder {
     display: inline-flex;
     padding: 15px 30px;
     font-size: 16px;
-    color: white;
+    color: black;
     border-radius: 25px;
     background-color: #012840;
     box-shadow: 0 0 20px #20638C;
@@ -541,7 +541,7 @@ input::placeholder, textarea::placeholder {
 
 .piedepagina footer {
   text-align: center;
-  color:black;
+  color:EFF9F8;
 }
   
 article:active {
